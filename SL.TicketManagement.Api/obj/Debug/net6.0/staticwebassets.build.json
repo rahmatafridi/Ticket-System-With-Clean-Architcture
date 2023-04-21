@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tQXgoIL/kYsKyRDdgurCjvWlN8TdgLgCKv+julF0oMU=",
+  "Source": "SL.TicketManagement.Api",
+  "BasePath": "_content/SL.TicketManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

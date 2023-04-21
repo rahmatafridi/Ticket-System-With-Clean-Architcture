@@ -1,6 +1,4 @@
+using SL.TicketManagement.Api;
 var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
-
-app.MapGet("/", () => "Hello World!");
-
+var app = builder.ConfiureServices().ConfiurePipline();
 app.Run();

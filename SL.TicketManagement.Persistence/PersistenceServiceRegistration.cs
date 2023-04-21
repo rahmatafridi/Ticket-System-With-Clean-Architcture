@@ -12,7 +12,7 @@ namespace SL.TicketManagement.Persistence
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<SLTicketDbContext>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("SLTicketTicketManagementConnectionString")));
+                options.UseSqlServer(configuration.GetConnectionString("SLTicketManagementConnectionString")));
 
             services.AddScoped(typeof(IAsyncRepository<>), typeof(BaseRepository<>));
 
