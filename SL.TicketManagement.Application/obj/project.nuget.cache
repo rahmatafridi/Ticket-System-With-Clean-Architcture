@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WTSQRSXOpbE1vq+oa9pmoCwqWeJFJqg3pUR/Yf16xDZOuiH1lUrGeHyyS0paBhAh2+M6R1pE/lJFoHl43TxyYQ==",
+  "dgSpecHash": "5T4IWzyF9UKCNTUNi7EZOANLwmtTnVfKFNv6BQVm6dH8DqkIt4oavGA59DcWLOyMZoqQBYFHygEwpqt31WLLCA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj",
+  "projectFilePath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

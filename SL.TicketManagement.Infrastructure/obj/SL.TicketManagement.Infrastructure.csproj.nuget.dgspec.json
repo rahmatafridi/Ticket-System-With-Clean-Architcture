@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj": {}
+    "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj": {
+    "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj",
+        "projectUniqueName": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj",
         "projectName": "SL.TicketManagement.Application",
-        "projectPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj",
+        "projectPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\obj\\",
+        "outputPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj": {
-                "projectPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj"
+              "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj": {
+                "projectPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj": {
+    "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj",
         "projectName": "SL.TicketManagement.Domain",
-        "projectPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj",
+        "projectPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\obj\\",
+        "outputPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj": {
+    "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj",
         "projectName": "SL.TicketManagement.Infrastructure",
-        "projectPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj",
+        "projectPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Infrastructure\\SL.TicketManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Infrastructure\\obj\\",
+        "outputPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj": {
-                "projectPath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj"
+              "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj": {
+                "projectPath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Application\\SL.TicketManagement.Application.csproj"
               }
             }
           }

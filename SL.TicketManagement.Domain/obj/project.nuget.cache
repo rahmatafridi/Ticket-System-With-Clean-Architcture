@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "90svhK+R51Gspo0mRJ0BKCuQOAte9MT2QPdTN6fTEHiTOI4NWCOCD6wD1Io/gdeKihPzs+00/1ra2Pq+JQlKuw==",
+  "dgSpecHash": "3IS8xACe2uRF+jweRdXfzExRRElmXuv7+0eLTkfs1xQ3vfMNh1L/OKd68FJNBdP/5HeY+PQySDEPxRRORfebpw==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Clean Architecture\\SL.TicketManagement\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj",
+  "projectFilePath": "C:\\Development\\Ticket System\\Ticket-System-With-Clean-Architcture\\SL.TicketManagement.Domain\\SL.TicketManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

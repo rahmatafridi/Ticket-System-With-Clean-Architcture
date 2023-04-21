@@ -1,0 +1,17 @@
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.AssemblyInfo.cs
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Infrastructure.deps.json
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Infrastructure.dll
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Infrastructure.pdb
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Application.dll
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Domain.dll
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Application.pdb
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\bin\Debug\net6.0\SL.TicketManagement.Domain.pdb
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.csproj.CopyComplete
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.dll
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\refint\SL.TicketManagement.Infrastructure.dll
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\SL.TicketManagement.Infrastructure.pdb
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Infrastructure\obj\Debug\net6.0\ref\SL.TicketManagement.Infrastructure.dll

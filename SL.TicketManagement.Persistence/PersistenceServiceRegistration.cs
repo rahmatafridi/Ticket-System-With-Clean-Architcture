@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SL.TicketManagement.Persistence;
 
-namespace GloboTicket.TicketManagement.Persistence
+namespace SL.TicketManagement.Persistence
 {
     public static class PersistenceServiceRegistration
     {
