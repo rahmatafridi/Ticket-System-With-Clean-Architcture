@@ -1,0 +1,12 @@
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\bin\Debug\net6.0\SL.TicketManagement.Domain.deps.json
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\bin\Debug\net6.0\SL.TicketManagement.Domain.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\bin\Debug\net6.0\SL.TicketManagement.Domain.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.csproj.AssemblyReference.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.AssemblyInfo.cs
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\refint\SL.TicketManagement.Domain.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\SL.TicketManagement.Domain.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Domain\obj\Debug\net6.0\ref\SL.TicketManagement.Domain.dll

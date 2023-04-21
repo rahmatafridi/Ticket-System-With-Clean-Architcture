@@ -1,0 +1,15 @@
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\bin\Debug\net6.0\SL.TicketManagement.Application.deps.json
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\bin\Debug\net6.0\SL.TicketManagement.Application.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\bin\Debug\net6.0\SL.TicketManagement.Application.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\bin\Debug\net6.0\SL.TicketManagement.Domain.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\bin\Debug\net6.0\SL.TicketManagement.Domain.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.AssemblyInfo.cs
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.csproj.CopyComplete
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\refint\SL.TicketManagement.Application.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\SL.TicketManagement.Application.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Application\obj\Debug\net6.0\ref\SL.TicketManagement.Application.dll

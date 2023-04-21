@@ -1,0 +1,17 @@
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Persistence.deps.json
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Persistence.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Persistence.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Application.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Domain.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Application.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\bin\Debug\net6.0\SL.TicketManagement.Domain.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.csproj.AssemblyReference.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.AssemblyInfo.cs
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.csproj.CopyComplete
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\refint\SL.TicketManagement.Persistence.dll
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\SL.TicketManagement.Persistence.pdb
+C:\Development\Clean Architecture\SL.TicketManagement\SL.TicketManagement.Persistence\obj\Debug\net6.0\ref\SL.TicketManagement.Persistence.dll

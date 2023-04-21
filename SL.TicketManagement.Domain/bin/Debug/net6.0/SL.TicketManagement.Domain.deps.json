@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SL.TicketManagement.Domain/1.0.0": {
+        "runtime": {
+          "SL.TicketManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SL.TicketManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
