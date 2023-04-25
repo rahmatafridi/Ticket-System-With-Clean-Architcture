@@ -6,7 +6,7 @@ using SL.TicketManagement.Application.Features.Events.Commands.CreateEvent;
 using SL.TicketManagement.Application.Features.Events.Commands.DeleteEvent;
 using SL.TicketManagement.Application.Features.Events.Commands.UpdateEvent;
 using SL.TicketManagement.Application.Features.Events.Queries.GetEventDetail;
-using SL.TicketManagement.Application.Features.Events.Queries.GetEventList;
+using SL.TicketManagement.Application.Features.Events.Queries.GetEventsList;
 using SL.TicketManagement.Domain.Entities;
 using System;
 using System.Collections.Generic;
