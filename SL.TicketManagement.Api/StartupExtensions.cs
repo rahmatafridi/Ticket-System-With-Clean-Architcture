@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using SL.TicketManagement.Api.Utility;
 using SL.TicketManagement.Application;
 using SL.TicketManagement.Infrastructure;
 using SL.TicketManagement.Persistence;
@@ -9,6 +11,7 @@ namespace SL.TicketManagement.Api
     {
         public static WebApplication ConfiureServices(this WebApplicationBuilder bulider)
         {
+            AddSwagger(bulider.Services);
             bulider.Services.AddApplicationServices();
             bulider.Services.AddInfrastructureServices(bulider.Configuration);
             bulider.Services.AddPersistenceServices(bulider.Configuration); 
@@ -22,6 +25,14 @@ namespace SL.TicketManagement.Api
         }
         public static WebApplication ConfiurePipline(this WebApplication app)
         {
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "System Links Ticket Management API");
+                });
+            }
             app.UseHttpsRedirection();
             app.UseRouting();   
             app.UseCors("Open");
@@ -29,6 +40,22 @@ namespace SL.TicketManagement.Api
             return app;
         }
 
+        private static void AddSwagger(IServiceCollection services)
+        {
+            services.AddSwaggerGen(c =>
+            {
+
+
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "System Links Ticket Management API",
+
+                });
+
+                c.OperationFilter<FileResultContentTypeOperationFilter>();
+            });
+        }
 
         public static async Task ResetDatabaseAsync(this WebApplication app)
         {

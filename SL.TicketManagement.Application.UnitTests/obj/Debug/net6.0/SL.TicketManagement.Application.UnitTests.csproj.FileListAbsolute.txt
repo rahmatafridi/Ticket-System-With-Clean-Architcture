@@ -1,0 +1,6 @@
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Application.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Application.UnitTests\obj\Debug\net6.0\SL.TicketManagement.Application.UnitTests.csproj.AssemblyReference.cache
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Application.UnitTests\obj\Debug\net6.0\SL.TicketManagement.Application.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Application.UnitTests\obj\Debug\net6.0\SL.TicketManagement.Application.UnitTests.AssemblyInfoInputs.cache
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Application.UnitTests\obj\Debug\net6.0\SL.TicketManagement.Application.UnitTests.AssemblyInfo.cs
+C:\Development\Ticket System\Ticket-System-With-Clean-Architcture\SL.TicketManagement.Application.UnitTests\obj\Debug\net6.0\SL.TicketManagement.Application.UnitTests.csproj.CoreCompileInputs.cache
